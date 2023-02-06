@@ -1,8 +1,6 @@
 # MEMO-TODO-APP
 <b>Memo Plus Todo List App using CoreData And SwiftUI.</b> <br />
-Hi, I'm a student currently studying mobile app development. I made this simple memo taking app using CoreData and SwiftUI. <br />
-This app is a memo taking app that also includes a todo list option. Create, edit, and delete entries. Plus added a dark/light mode toggle for fun. <br />
-
+This iOS app is a simple memo taking app that also includes a todo list option. Create, edit, and delete entries. Plus added a dark/light mode toggle for fun. <br />
 
 ## Features
 <ul>
