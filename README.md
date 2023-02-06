@@ -4,7 +4,7 @@ Hi, I'm a student currently studying mobile app development. I made this simple 
 This app is a memo taking app that also includes a todo list option. Create, edit, and delete entries. Plus added a dark/light mode toggle for fun. <br />
 
 
-<b>Features</b>
+## Features
 <ul>
 <li>Create and save memos</li>
 <li>Create and edit a todo list</li>
@@ -13,14 +13,14 @@ This app is a memo taking app that also includes a todo list option. Create, edi
 <li>Dark/light mode toggle</li>
 </ul>
 
-<b>Requirements</b>
+## Requirements
 <ul>
 <li>Xcode 12 or later</li>
 <li>iOS 16.0 or later</li>
 <li>Swift 5 or later</li>
 </ul>
 
-
+## Demo
 ![Simulator Screen Recording - iPhone 14 - 2023-01-30 at 12 19 07](https://user-images.githubusercontent.com/122884728/215380407-e3acc44d-7415-4d9a-ad4a-f2b6a369b78e.gif)
 
 
