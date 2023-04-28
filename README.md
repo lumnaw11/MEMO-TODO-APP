@@ -13,9 +13,9 @@ This iOS app is a simple memo taking app that also includes a todo list option. 
 
 ## Requirements
 <ul>
-<li>Xcode 12 or later</li>
-<li>iOS 16.0 or later</li>
-<li>Swift 5 or later</li>
+<li>Xcode 12+/li>
+<li>iOS 16.0+</li>
+<li>Swift 5+</li>
 </ul>
 
 ## Demo
